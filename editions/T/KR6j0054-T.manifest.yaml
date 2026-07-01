@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0054/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0054/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說金剛場莊嚴般若波羅蜜多教中一分
+  identifiers:
+    krp: KR6j0054
+    cbeta: T18n0886
+    cbeta_old_id: T18n0886
+    authorityid: CA0001622
+    json_key: T0886
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0886.xml
+    old_id: T18n0886
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0054_000-T.yaml, hash: 'sha256:8d89a23a9618fb911ccef87023deaa2f791509c69374d1e7c18bff2587844a46'}
+  - {seq: 1, filename: KR6j0054_001-T.yaml, hash: 'sha256:25d30e0efe804882b558771535836c40f05a984aad20a59a6052c7f4387a0985'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0054_000-T.markers.yaml, hash: 'sha256:957ba81363315e828d526694962682bee0705befa238158abaa96fab2bcdcb36'}
+  - {seq: 1, role: markers, filename: assets/KR6j0054_001-T.markers.yaml, hash: 'sha256:5f280502cb9dc60f46ad00bbfb8a8ac7840944dcca0ea216a01925ce987775b4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0054_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3737
+  label: '佛說金剛場莊嚴般若波羅蜜多
+
+    教中一分此於大部支流別行'
+  type: juan
+  level: 1
+hash: sha256:5fcf50d1654ce83cc3e4525b431427e2d6c7490a0658b00550d75d9528322fa0

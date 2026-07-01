@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR6j0054/v1
+canonical_location: https://kanripo.org/bkk/KR6j0054/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說金剛場莊嚴般若波羅蜜多教中一分
+  identifiers:
+    alt_id:
+    - T18n0886
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0886.xml
+    old_id: T18n0886
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0054_000.yaml, hash: 'sha256:8d89a23a9618fb911ccef87023deaa2f791509c69374d1e7c18bff2587844a46'}
+  - {seq: 1, filename: KR6j0054_001.yaml, hash: 'sha256:d28d5bf8e7d1ca01f2b70aa618fd495457aed87e7966e9bea456985bccceca16'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0054_001.markers.yaml, hash: 'sha256:73855fcaa401cba899f730ae1c17f0cf4df4ee2b5c272ece9574fb1ec74406e3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0054_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3737
+  label: '佛說金剛場莊嚴般若波羅蜜多
+
+    教中一分此於大部支流別行'
+  type: juan
+  level: 1
+hash: sha256:b74db1fed4e27f6eb2811f4c3810f14c547e32562800d8ff794d6597210daddd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

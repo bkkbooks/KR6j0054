@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0054/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說金剛場莊嚴般若波羅蜜多教中一分
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0886.xml
+    old_id: T18n0886
+hash: sha256:8d89a23a9618fb911ccef87023deaa2f791509c69374d1e7c18bff2587844a46
