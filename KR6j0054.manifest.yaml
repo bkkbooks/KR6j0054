@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0054_000.yaml, hash: 'sha256:8d89a23a9618fb911ccef87023deaa2f791509c69374d1e7c18bff2587844a46'}
-  - {seq: 1, filename: KR6j0054_001.yaml, hash: 'sha256:d28d5bf8e7d1ca01f2b70aa618fd495457aed87e7966e9bea456985bccceca16'}
+  - {seq: 1, filename: KR6j0054_001.yaml, hash: 'sha256:25d30e0efe804882b558771535836c40f05a984aad20a59a6052c7f4387a0985'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0054_001.markers.yaml, hash: 'sha256:73855fcaa401cba899f730ae1c17f0cf4df4ee2b5c272ece9574fb1ec74406e3'}
+  - {seq: 0, role: markers, filename: assets/KR6j0054_000.markers.yaml, hash: 'sha256:23e2fc12469232194b1c8fe7493c41db1d7ba88909a04bf8472a5b554719a05e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0054_001.markers.yaml, hash: 'sha256:ec7e2dabcc02b09d5acdc6e5074967b1100d0c3e05097ca49b31395ee31c0654'}
 table_of_contents:
 - ref:
     seq: 1
@@ -41,7 +42,4 @@ table_of_contents:
     教中一分此於大部支流別行'
   type: juan
   level: 1
-hash: sha256:b74db1fed4e27f6eb2811f4c3810f14c547e32562800d8ff794d6597210daddd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6b68caf62179f089440a4b3d56ac11b15bc7fd3d9861793fb226fe580a46e847
