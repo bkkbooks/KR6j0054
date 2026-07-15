@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0054/v1
 canonical_location: https://kanripo.org/bkk/KR6j0054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說金剛場莊嚴般若波羅蜜多教中一分
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0054_000.yaml, hash: 'sha256:8d89a23a9618fb911ccef87023deaa2f791509c69374d1e7c18bff2587844a46'}
-  - {seq: 1, filename: KR6j0054_001.yaml, hash: 'sha256:25d30e0efe804882b558771535836c40f05a984aad20a59a6052c7f4387a0985'}
+  - {seq: 1, filename: KR6j0054_001.yaml, hash: 'sha256:8df1bce610556798956c5a4b123a55ec8ea8f67355aa47780ad2ca8f71904f2e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0054_000.markers.yaml, hash: 'sha256:23e2fc12469232194b1c8fe7493c41db1d7ba88909a04bf8472a5b554719a05e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0054_001.markers.yaml, hash: 'sha256:ec7e2dabcc02b09d5acdc6e5074967b1100d0c3e05097ca49b31395ee31c0654'}
+  - {seq: 1, role: markers, filename: assets/KR6j0054_001.markers.yaml, hash: 'sha256:fd43fa1fad808e702954081923d0a7b8cdf7da671b74ef933eec5deda4030171'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
     教中一分此於大部支流別行'
   type: juan
   level: 1
-hash: sha256:6b68caf62179f089440a4b3d56ac11b15bc7fd3d9861793fb226fe580a46e847
+hash: sha256:36bf534403993f7d0ba0ee2a049ea79530dc3f764515d45b2a9c5e79fbf0294a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
